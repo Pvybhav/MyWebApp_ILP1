@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body {
+	background : MEDIUMSPRINGGREEN;
+	text-align : center;
+}
+h1 {
+	color : LIGHTCYAN;
+}
+label {
+	color : DARKBLUE;
+}
+button {
+	color : OLIVE;
+	box-shadow : 2px 2px LIGHTSKYBLUE;
+}
+input {
+	box-shadow : 2px 2px 5px LIGHTSKYBLUE;
+}
+table {
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
